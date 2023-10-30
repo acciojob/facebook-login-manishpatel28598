@@ -31,6 +31,8 @@ button{
 	background-color: #1877f2;
 	border-radius: 5px;
 	padding: 10px;
+	border: none;
+	color: rgb(255,255,255);
 }
 a{
 	text-decoration: none;
@@ -38,5 +40,5 @@ a{
 }
 .signup{
 	background-color: #42b72a;
-	width: auto;
+/* 	width: auto; */
 }
